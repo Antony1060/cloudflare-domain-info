@@ -7,6 +7,7 @@ declare global {
             CF_KEY: string;
             CHECK_DOMAINS: string;
             TIMEOUT: string;
+            HIDDEN_DOMAINS: string;
         }
     }
 }
